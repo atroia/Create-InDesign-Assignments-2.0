@@ -1,5 +1,4 @@
 # Create-InDesign-Assignments-2.0
- Create InDesign Assignments from a list or selecting the TOC entries
 
 I work in publishing and have spent a lot of time working with assinments in InDesign/Incopy. One of the things that bugs me is how long it takes to create them, especially if you have a document with a lot of chapters or sections. So I have been trying to work my way towards a script that will speed up my workflow and save me time when it comes to creating assignments for InDesign/InCopy.
 
